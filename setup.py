@@ -27,7 +27,7 @@ if not OMIT_README_RST:
 
 setup(
     # Information
-    name = "ggwave",
+    name = "py-ggwave-fork",
     description = "Tiny data-over-sound library.",
     long_description = long_description,
     version = "0.4.2",
